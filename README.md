@@ -17,5 +17,5 @@ Using nginx as a reverse proxy for a flask app leveraging docker
 6. Stop running docker container
     docker stop <container name>
 
-7. start the cluster with docker-compose
+7. start the container with docker-compose
     docker-compose up -d 
